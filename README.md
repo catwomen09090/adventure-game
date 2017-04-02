@@ -19,3 +19,19 @@ It's missing some pieces
 They find out they're in the past by looking at a newspaper
 
 They find parts under seats in the bus they ride in, underneath the bus, around town, etc.
+
+
+# Skills
+
+**HTML**:
+- [ ] images
+- [ ] div tags
+- [ ] id attributes
+- [ ] class attributes
+
+**CSS**:
+- [ ] position absolute
+
+**JavaScript**:
+- [ ] variables
+- [ ] condtionals
